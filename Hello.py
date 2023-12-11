@@ -1,2 +1,1 @@
-print("Hello Yisus")
-print("¿Que tal el curso?")
+print("new Hello")
